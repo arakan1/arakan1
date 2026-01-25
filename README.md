@@ -45,12 +45,6 @@ Full-stack application
 
 ---
 
-## ⚽ A Bit About Me
-- Playing soccer as a hobby  
-- Traveling and exploring new places  
-
----
-
 ## 🌐 Let’s Connect
 - Portfolio: https://rakanawwad.dev  
 - LinkedIn: https://linkedin.com/in/rakanawwad  
