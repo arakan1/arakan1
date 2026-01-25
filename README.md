@@ -16,12 +16,12 @@
 
 ## 🛠️ Tech Stack
 
--**Languages:** Python, JavaScript, Java, SQL  
--**Backend:** Node.js, Express, Flask, Django, RESTful APIs, JWT  
--**Frontend:** React, Next.js, HTML, CSS  
--**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
--**DevOps & Tools:** Docker, Git, CI/CD, AWS  
--**Testing:** Pytest, Jest
+**Languages:** Python, JavaScript, Java, SQL  
+**Backend:** Node.js, Express, Flask, Django, RESTful APIs, JWT  
+**Frontend:** React, Next.js, HTML, CSS  
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+**DevOps & Tools:** Docker, Git, CI/CD, AWS  
+**Testing:** Pytest, Jest
 
 ---
 
