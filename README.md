@@ -1,7 +1,7 @@
 # Hi, I’m Rakan 👋
 
 🎓 Master’s student in Computer Science at Virginia Tech  
-💻 Backend & Full-Stack Software Engineer  
+💻 Backend-focused Software Engineer** with full-stack experience 
 🚀 Interested in building scalable systems, APIs, and data-driven applications
 
 ---
