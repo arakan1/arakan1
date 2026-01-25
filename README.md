@@ -10,39 +10,31 @@
 - Design and build **backend services and RESTful APIs**
 - Work extensively with **databases, transactions, and data integrity**
 - Focus on **performance, scalability, and reliability**
-- Build full-stack applications when needed, with a strong backend foundation
+- Build full-stack applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend (Primary):**  
-Python (Flask, Django), Node.js (Express), RESTful APIs, JWT, Authentication & Authorization  
-
-**Databases:**  
-MySQL, PostgreSQL, MongoDB, Redis (schema design, indexing, ACID transactions)
-
-**Frontend (Supporting):**  
-React, Next.js, HTML, CSS  
-
-**DevOps & Tools:**  
-Docker, Git, CI/CD, AWS  
-
-**Testing:**  
-Pytest, Jest
+**Languages:** Python, JavaScript, Java, SQL  
+**Backend:** Node.js, Express, Flask, Django, RESTful APIs, JWT  
+**Frontend:** React, Next.js, HTML, CSS  
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+**DevOps & Tools:** Docker, Git, CI/CD, AWS  
+**Testing:** Pytest, Jest
 
 ---
 
 ## 📌 Selected Projects
 
-🚗 **Car Dealership Management System**  
-Backend-driven full-stack platform with 20+ REST APIs, role-based access control, optimized SQL queries, and transactional workflows.
+**Car Dealership Management System**  
+full-stack platform with 20+ REST APIs, role-based access control, optimized SQL queries, and transactional workflows.
 
-📧 **Email Sensitivity Detector**  
-Flask-based backend service using TinyBERT to detect sensitive content with high accuracy and low-latency inference.
+**Email Sensitivity Detector**  
+Flask-based  service using TinyBERT to detect sensitive content with high accuracy and low-latency inference.
 
-🚙 **Auto Sales Platform**  
-Full-stack application with a backend API, MongoDB integration, and cloud deployment on Vercel.
+**Auto Sales Platform**  
+Full-stack application 
 
 ---
 
@@ -56,7 +48,6 @@ Full-stack application with a backend API, MongoDB integration, and cloud deploy
 ## ⚽ A Bit About Me
 - Playing soccer as a hobby  
 - Traveling and exploring new places  
-- Fun fact: I’m one of **seven brothers**
 
 ---
 
