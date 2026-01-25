@@ -1,43 +1,62 @@
 # Hi, I’m Rakan 👋
 
 🎓 Master’s student in Computer Science at Virginia Tech  
-💻 Backend-focused Software Engineer with full-stack experience 
-🚀 Interested in building scalable systems, APIs, and data-driven applications
+💻 **Backend-focused Full-Stack Software Engineer**  
+🚀 Interested in building scalable backend systems, APIs, and data-driven applications
 
 ---
 
-##  Tech Stack
-
-**Languages:** Python, JavaScript, Java, SQL  
-**Backend:** Node.js, Express, Flask, Django, RESTful APIs, JWT  
-**Frontend:** React, Next.js, HTML, CSS  
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
-**DevOps & Tools:** Docker, Git, CI/CD, AWS  
-**Testing:** Pytest, Jest
+## 🧠 What I Do
+- Design and build **backend services and RESTful APIs**
+- Work extensively with **databases, transactions, and data integrity**
+- Focus on **performance, scalability, and reliability**
+- Build full-stack applications when needed, with a strong backend foundation
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-**Car Dealership Management System**  
-Full-stack platform with REST APIs, role-based authentication, and optimized SQL queries.
+**Backend (Primary):**  
+Python (Flask, Django), Node.js (Express), RESTful APIs, JWT, Authentication & Authorization  
 
-**Email Sensitivity Detector**  
-ML-powered Flask API using TinyBERT to detect sensitive content with high accuracy and low latency.
+**Databases:**  
+MySQL, PostgreSQL, MongoDB, Redis (schema design, indexing, ACID transactions)
 
-**Auto Sales Platform**  
-Next.js application with server-side rendering, MongoDB, and cloud deployment on Vercel.
+**Frontend (Supporting):**  
+React, Next.js, HTML, CSS  
+
+**DevOps & Tools:**  
+Docker, Git, CI/CD, AWS  
+
+**Testing:**  
+Pytest, Jest
 
 ---
 
-## 🌱 What I’m Currently Working On
-- Improving backend performance and scalability
+## 📌 Selected Projects
+
+🚗 **Car Dealership Management System**  
+Backend-driven full-stack platform with 20+ REST APIs, role-based access control, optimized SQL queries, and transactional workflows.
+
+📧 **Email Sensitivity Detector**  
+Flask-based backend service using TinyBERT to detect sensitive content with high accuracy and low-latency inference.
+
+🚙 **Auto Sales Platform**  
+Full-stack application with a backend API, MongoDB integration, and cloud deployment on Vercel.
 
 ---
 
-## ⚽ Fun Facts
-- I enjoy playing soccer as a hobby  
-- I love traveling and exploring new places  
+## 🌱 Currently Working On
+- Backend performance optimization  
+- System design and scalable architectures  
+- Improving API reliability and security  
+
+---
+
+## ⚽ A Bit About Me
+- Playing soccer as a hobby  
+- Traveling and exploring new places  
+- Fun fact: I’m one of **seven brothers**
 
 ---
 
@@ -45,4 +64,3 @@ Next.js application with server-side rendering, MongoDB, and cloud deployment on
 - Portfolio: https://rakanawwad.dev  
 - LinkedIn: https://linkedin.com/in/rakanawwad  
 - Email: rakanawwad48@gmail.com
-
