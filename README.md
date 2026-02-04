@@ -1,7 +1,7 @@
 # Hi, I’m Rakan 👋
 
 - Master’s student in Computer Science at Virginia Tech  
-- **Backend-focused Full-Stack Software Engineer**  
+- Full-Stack Software Engineer**  
 - Interested in building scalable backend systems, APIs, and data-driven applications
 
 ---
@@ -34,7 +34,8 @@ full-stack platform with 20+ REST APIs, role-based access control, optimized SQL
 Flask-based  service using TinyBERT to detect sensitive content with high accuracy and low-latency inference.
 
 - **Auto Sales Platform**  
-Full-stack application 
+Full-stack application
+https://americanautosalesvirginia.com/
 
 ---
 
