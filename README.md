@@ -40,7 +40,7 @@ https://americanautosalesvirginia.com/
 ---
 
 ## 🌱 Currently Working On
--  building a secure, local-only marketplace platform for students to trade items, sublease apartments, and share events, restricted to verified .edu email addresses  
+- Building a secure, local-only marketplace platform for students to trade items, sublease apartments, and share events, restricted to verified .edu email addresses  
 - System design and scalable architectures  
 - Improving API reliability and security  
 
