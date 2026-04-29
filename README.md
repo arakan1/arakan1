@@ -2,7 +2,6 @@
 
 - Master’s student in Computer Science at Virginia Tech  
 - Full-Stack Software Engineer 
-- Interested in building scalable backend systems, APIs, and data-driven applications
 
 ---
 
