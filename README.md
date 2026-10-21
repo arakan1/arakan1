@@ -1,6 +1,6 @@
 # Hi, I’m Rakan 👋
 
-- Master’s student in Computer Science at Virginia Tech  
+- Master’s student in Applied AI & Machine Learning at Virginia Tech  
 - Software Engineer 
 
 ## Let’s Connect
